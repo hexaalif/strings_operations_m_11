@@ -10,5 +10,6 @@ int main()
         scanf("%s", s[i]);
         printf("%s", s[i]);
     }
+    printf("\n");
     return 0;
 }
